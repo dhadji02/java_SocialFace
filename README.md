@@ -1,0 +1,4 @@
+- This project, implements a replica of Facebook (some of the functionalities with albums, videos, profiles and friends). 
+- This project was developed in the context of a mandatory _Databases_ course offerred from the Department of Computer Science at University of Cyprus in 2020. 
+- The development was done purely in Java (Java Swing for the interface) and using JDBC and Microsoft SQL Server for the Database connection.
+- For the project to work, a database should exist with the respective tables and fields created (sql files included)
